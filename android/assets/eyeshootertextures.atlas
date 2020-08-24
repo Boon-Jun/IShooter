@@ -1,0 +1,293 @@
+
+eyeshootertextures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+borders
+  rotate: false
+  xy: 1, 21
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+endscoremessage
+  rotate: false
+  xy: 1, 1
+  size: 79, 18
+  orig: 79, 18
+  offset: 0, 0
+  index: -1
+confusion1
+  rotate: false
+  xy: 82, 4
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+confusion2
+  rotate: false
+  xy: 112, 4
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+shipbullet
+  rotate: false
+  xy: 142, 13
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+
+eyeshootertextures2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+gamebound
+  rotate: false
+  xy: 1, 181
+  size: 840, 840
+  orig: 840, 840
+  offset: 0, 0
+  index: -1
+shootbutton
+  rotate: false
+  xy: 1, 22
+  size: 282, 157
+  orig: 282, 157
+  offset: 0, 0
+  index: -1
+shootbuttonp
+  rotate: false
+  xy: 285, 22
+  size: 282, 157
+  orig: 282, 157
+  offset: 0, 0
+  index: -1
+startmessage
+  rotate: false
+  xy: 569, 59
+  size: 445, 120
+  orig: 445, 120
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 569, 1
+  size: 250, 56
+  orig: 250, 56
+  offset: 0, 0
+  index: -1
+hiscore
+  rotate: false
+  xy: 821, 6
+  size: 165, 51
+  orig: 165, 51
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 843, 970
+  size: 165, 51
+  orig: 165, 51
+  offset: 0, 0
+  index: -1
+enemybullet
+  rotate: false
+  xy: 843, 868
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 843, 776
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: 1
+explosion
+  rotate: false
+  xy: 843, 684
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: 2
+explosion
+  rotate: false
+  xy: 843, 592
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: 3
+ship
+  rotate: false
+  xy: 843, 500
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+achievement
+  rotate: false
+  xy: 843, 418
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 843, 336
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mutesound
+  rotate: false
+  xy: 843, 254
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+eyechaser
+  rotate: false
+  xy: 843, 187
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+bouncyballfinal
+  rotate: false
+  xy: 913, 187
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+pausebutton
+  rotate: false
+  xy: 925, 418
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+playsound
+  rotate: false
+  xy: 925, 336
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bouncyball
+  rotate: false
+  xy: 925, 269
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: 1
+level
+  rotate: false
+  xy: 938, 815
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+bouncyball
+  rotate: false
+  xy: 945, 903
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: 2
+bouncyball
+  rotate: false
+  xy: 938, 748
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: 3
+bouncyball
+  rotate: false
+  xy: 938, 681
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: 4
+lives
+  rotate: false
+  xy: 938, 617
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+
+eyeshootertextures3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+tint
+  rotate: false
+  xy: 1, 160
+  size: 828, 828
+  orig: 828, 828
+  offset: 0, 0
+  index: -1
+leftbutton
+  rotate: false
+  xy: 1, 1
+  size: 196, 157
+  orig: 196, 157
+  offset: 0, 0
+  index: -1
+leftbuttonp
+  rotate: false
+  xy: 199, 1
+  size: 196, 157
+  orig: 196, 157
+  offset: 0, 0
+  index: -1
+rightbutton
+  rotate: false
+  xy: 397, 1
+  size: 196, 157
+  orig: 196, 157
+  offset: 0, 0
+  index: -1
+rightbuttonp
+  rotate: false
+  xy: 595, 1
+  size: 196, 157
+  orig: 196, 157
+  offset: 0, 0
+  index: -1
+continuemessage
+  rotate: false
+  xy: 793, 108
+  size: 227, 50
+  orig: 227, 50
+  offset: 0, 0
+  index: -1
+
+eyeshootertextures4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+enemy
+  rotate: false
+  xy: 1, 53
+  size: 377, 320
+  orig: 377, 320
+  offset: 0, 0
+  index: -1
+enemyhit
+  rotate: false
+  xy: 380, 53
+  size: 377, 320
+  orig: 377, 320
+  offset: 0, 0
+  index: -1
+tryagainmessage
+  rotate: false
+  xy: 1, 1
+  size: 237, 50
+  orig: 237, 50
+  offset: 0, 0
+  index: -1

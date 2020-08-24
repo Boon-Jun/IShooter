@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767130707085",
+    "firebase_url": "https://eyeshooter2.firebaseio.com",
+    "project_id": "eyeshooter2",
+    "storage_bucket": "eyeshooter2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767130707085:android:11594c3856632e01",
+        "android_client_info": {
+          "package_name": "com.ladinc.eyeshooter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767130707085-ka83hi8q19qolljp2oq1ktknndgvh7ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD65XmWmB7a6-5RHS3vL44XZTmHSFzt1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

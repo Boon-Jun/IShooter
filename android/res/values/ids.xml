@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="adViewId" type="id" />
+    <string name="app_id">507872916281</string>
+    <string name="highscores">CgkIuebW_OMOEAIQAQ</string>
+    <string name="achievement1">CgkIuebW_OMOEAIQAg</string>
+    <string name="achievement2">CgkIuebW_OMOEAIQAw</string>
+    <string name="achievement3">CgkIuebW_OMOEAIQBA</string>
+    <string name="achievement4">CgkIuebW_OMOEAIQBQ</string>
+    <string name="achievement5">CgkIuebW_OMOEAIQBg</string>
+    <string name="my_adid">ca-app-pub-1510906238134822~3195370528</string>
+    <string name="banadid">ca-app-pub-1510906238134822/5681933068</string>
+
+</resources>
